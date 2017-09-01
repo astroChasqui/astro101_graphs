@@ -15,7 +15,7 @@ Ch. 15: Sun
 - Sunspot cycle and solar constant
 
 Ch. 16: Sun, nuclear
-- Fig. 16.16: show evolution, for example at 0 Gyr, 4.5 Gyr, 9 Gyr.
+- Fig. 16.16: show evolution, for example at 0 Gyr, 4.5 Gyr, 9 Gyr. ---Done: Sun's evolution---
 
 Ch. 17
 - Spectrum: color image vs line graph
@@ -27,7 +27,7 @@ Ch. 18
 
 Ch. 22
 - Sun's evolution track (+core diagrams? Fig. 22.2)
-- HR diagram of clusters (Fig. 22.15)
+- HR diagram of clusters (Fig. 22.15) --- Done: isochrones ---
 
 Ch. 29
 - Hubble plot with acceleration

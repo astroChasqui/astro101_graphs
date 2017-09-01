@@ -1,0 +1,37 @@
+Ch. 3
+- Orbits of solar system planets compared to perfect circles
+
+Ch. 4
+- Fig. 4.25: path of eclipse 2024!
+
+Ch. 5
+- Blackbody radiation: blue star, red star, equally bright due to different size/distance
+
+Ch. 6: Telescopes
+- Amount of light collected vs time and telescope diameter
+
+Ch. 15: Sun
+- Sunspot cycle showing Maunder Minimum (Fig. 15.26)
+- Sunspot cycle and solar constant
+
+Ch. 16: Sun, nuclear
+- Fig. 16.16: show evolution, for example at 0 Gyr, 4.5 Gyr, 9 Gyr.
+
+Ch. 17
+- Spectrum: color image vs line graph
+- "Alphabetical" spectral sequence
+
+Ch. 18
+- HR Diagram: nearby vs bright, unbiased
+- Period-Luminosity explicit: multi-plot of L vs time for X Cepheids
+
+Ch. 22
+- Sun's evolution track (+core diagrams? Fig. 22.2)
+- HR diagram of clusters (Fig. 22.15)
+
+Ch. 29
+- Hubble plot with acceleration
+- Fig. 29.13 in years
+
+Ch. 30
+- Chemical composition of the Universe (Sun?) and CHONPS. Pie chart.
